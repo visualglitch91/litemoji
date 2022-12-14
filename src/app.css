@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: rgb(21, 22, 23);
+}
+
+#app {
+  border-radius: 12px;
+  border: 2px solid #f7768e;
+  width: 352px;
+}
